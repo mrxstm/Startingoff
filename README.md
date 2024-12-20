@@ -1,1 +1,1 @@
-get started
+let's get started
